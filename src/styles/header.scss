@@ -1,0 +1,58 @@
+@import "./maps";
+@font-face {
+  font-family: Roboto, sans-serif;
+  definition-src: url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,900;1,400;1,500&display=swap');;
+}
+main
+{
+  header {
+    width: 100%;
+    height: 130px;
+    padding: 32px 20px 29px 19px;
+    background: #97B8BF ;
+    display: flex;
+    .container {
+      height: 100%;
+      display: flex;
+
+      .logo {
+        height: 81px;
+        h1 {
+          width: 322px;
+          height: 41px;
+          margin: 1px 150px 11px 0;
+          font-family: "Droid Sans", sans-serif;
+          font-size: 56px;
+          font-weight: 500;
+          font-stretch: normal;
+          font-style: normal;
+          line-height: 1;
+          letter-spacing: normal;
+          text-align: left;
+          color: #ffffff
+        }
+        h2 {
+
+          height: 16px;
+          margin: 11px 269px 0 0;
+          font-family: Georgia;
+          font-size: 16px;
+          font-weight: normal;
+          font-stretch: normal;
+          font-style: normal;
+          line-height: 1;
+          letter-spacing: normal;
+          text-align: left;
+          color: #d3d3d3;
+
+        }
+      }
+      ul#nav {
+        display: flex;
+        margin-left: auto;
+      }
+    }
+
+
+  }
+}
