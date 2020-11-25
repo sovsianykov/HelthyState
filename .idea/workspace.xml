@@ -1,17 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="b9fcc117-1f6c-4a65-9866-52a0dcc051c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/build/img/spring.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/kiwis.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/img/spring.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/styles/header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/fonts/Caveat-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/fonts/Caveat-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/fonts/Caveat-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/fonts/Caveat-SemiBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/fonts/Caveat-VariableFont_wght.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/fonts/MarckScript-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/fonts/Oswald-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/fonts/Oswald-ExtraLight.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/fonts/Oswald-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/fonts/Oswald-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/fonts/Oswald-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/fonts/Oswald-SemiBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/fonts/Oswald-VariableFont_wght.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build/img/kiwis.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/Caveat-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/Caveat-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/Caveat-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/Caveat-SemiBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/Caveat-VariableFont_wght.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/MarckScript-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/Oswald-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/Oswald-ExtraLight.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/Oswald-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/Oswald-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/Oswald-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/Oswald-SemiBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/Oswald-VariableFont_wght.ttf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/css/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/build/css/style.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/_maps.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/_maps.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles/header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/header.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/styles/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/style.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +62,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
   </component>
   <component name="ProjectId" id="1gtyissN2HkQSmbnjR7tEaODWQw" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -35,12 +79,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/build/fonts" />
       <recent name="D:\Work\HelthyPlate\src\img" />
     </key>
   </component>
@@ -74,11 +120,23 @@
       <workItem from="1599725150921" duration="1540000" />
       <workItem from="1603729060331" duration="149000" />
       <workItem from="1606314681689" duration="7730000" />
+      <workItem from="1606334246092" duration="9420000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -88,6 +146,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.12.1920.1040@0.0.1920.1040" timestamp="1598956682249" />
+    <state width="1419" height="200" key="GridCell.Tab.0.bottom" timestamp="1606334323170">
+      <screen x="0" y="25" width="1440" height="809" />
+    </state>
+    <state width="1419" height="200" key="GridCell.Tab.0.bottom/0.25.1440.809@0.25.1440.809" timestamp="1606334323170" />
+    <state width="1419" height="200" key="GridCell.Tab.0.center" timestamp="1606334323169">
+      <screen x="0" y="25" width="1440" height="809" />
+    </state>
+    <state width="1419" height="200" key="GridCell.Tab.0.center/0.25.1440.809@0.25.1440.809" timestamp="1606334323169" />
+    <state width="1419" height="200" key="GridCell.Tab.0.left" timestamp="1606334323168">
+      <screen x="0" y="25" width="1440" height="809" />
+    </state>
+    <state width="1419" height="200" key="GridCell.Tab.0.left/0.25.1440.809@0.25.1440.809" timestamp="1606334323168" />
+    <state width="1419" height="200" key="GridCell.Tab.0.right" timestamp="1606334323169">
+      <screen x="0" y="25" width="1440" height="809" />
+    </state>
+    <state width="1419" height="200" key="GridCell.Tab.0.right/0.25.1440.809@0.25.1440.809" timestamp="1606334323169" />
     <state x="461" y="165" key="SettingsEditor" timestamp="1606314841512">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
