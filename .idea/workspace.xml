@@ -19,41 +19,15 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9fcc117-1f6c-4a65-9866-52a0dcc051c2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/build/fonts/Caveat-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/fonts/Caveat-Medium.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/fonts/Caveat-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/fonts/Caveat-SemiBold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/fonts/Caveat-VariableFont_wght.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/fonts/MarckScript-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/fonts/Oswald-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/fonts/Oswald-ExtraLight.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/fonts/Oswald-Light.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/fonts/Oswald-Medium.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/fonts/Oswald-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/fonts/Oswald-SemiBold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/fonts/Oswald-VariableFont_wght.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/img/kiwis.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fonts/Caveat-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fonts/Caveat-Medium.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fonts/Caveat-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fonts/Caveat-SemiBold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fonts/Caveat-VariableFont_wght.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fonts/MarckScript-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fonts/Oswald-Bold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fonts/Oswald-ExtraLight.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fonts/Oswald-Light.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fonts/Oswald-Medium.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fonts/Oswald-Regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fonts/Oswald-SemiBold.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/fonts/Oswald-VariableFont_wght.ttf" afterDir="false" />
+    <list default="true" id="b9fcc117-1f6c-4a65-9866-52a0dcc051c2" name="Default Changelist" comment="local">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/css/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/build/css/style.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/js/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/styles/header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/header.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/styles/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/styles/style.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +50,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -121,6 +97,7 @@
       <workItem from="1603729060331" duration="149000" />
       <workItem from="1606314681689" duration="7730000" />
       <workItem from="1606334246092" duration="9420000" />
+      <workItem from="1608230922899" duration="10076000" />
     </task>
     <servers />
   </component>
@@ -137,6 +114,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
